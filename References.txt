@@ -1,0 +1,23 @@
+References
+
+6ENT1180 - Robot Communications Coursework
+Tomiwa Adeyemi (22044811)
+
+The following sources informed the design, implementation, and reflection sections of this coursework. 
+[1] Connectivity Standards Alliance (2023) Zigbee Specification. Document 05-3474-23. Davis, CA: Connectivity Standards Alliance. Available at: https://csa-iot.org/developer-resource/specifications-download-request/ (Accessed: 22 April 2026).
+[2] Digi International (2018) XBee®/XBee-PRO® S2C Zigbee® RF Module User Guide. Publication 90002002. Hopkins, MN: Digi International. Available at: https://docs.digi.com/resources/documentation/digidocs/pdfs/90002002.pdf (Accessed: 22 April 2026).
+[3] Hughes, D.P. and Salathé, M. (2015) ‘An open access repository of images on plant health to enable the development of mobile disease diagnostics’, arXiv preprint, arXiv:1511.08060. Available at: https://arxiv.org/abs/1511.08060 (Accessed: 22 April 2026).
+[4] Kamilaris, A. and Prenafeta-Boldú, F.X. (2018) ‘Deep learning in agriculture: A survey’, Computers and Electronics in Agriculture, 147, pp. 70–90. https://doi.org/10.1016/j.compag.2018.02.016
+[5] Krawczyk, H., Bellare, M. and Canetti, R. (1997) HMAC: Keyed-Hashing for Message Authentication. RFC 2104. Internet Engineering Task Force. Available at: https://www.rfc-editor.org/rfc/rfc2104 (Accessed: 22 April 2026).
+[6] Microchip Technology Inc. (2017) 24AA64/24LC64 — 64K I²C™ Serial EEPROM Data Sheet. Document DS20001815G. Chandler, AZ: Microchip Technology. Available at: https://ww1.microchip.com/downloads/en/DeviceDoc/20001815G.pdf (Accessed: 22 April 2026).
+[7] National Institute of Standards and Technology (2001) Advanced Encryption Standard (AES). Federal Information Processing Standards Publication 197. Gaithersburg, MD: NIST. doi: 10.6028/NIST.FIPS.197.
+[8] National Institute of Standards and Technology (2007) Recommendation for Block Cipher Modes of Operation: The CCM Mode for Authentication and Confidentiality. NIST Special Publication 800-38C. Gaithersburg, MD: NIST. doi: 10.6028/NIST.SP.800-38C.
+[9] NXP Semiconductors (2021) UM10204 — I²C-bus specification and user manual. Revision 7.0. Eindhoven: NXP Semiconductors. Available at: https://www.nxp.com/docs/en/user-guide/UM10204.pdf (Accessed: 22 April 2026).
+[10] Sandler, M., Howard, A., Zhu, M., Zhmoginov, A. and Chen, L.-C. (2018) ‘MobileNetV2: Inverted Residuals and Linear Bottlenecks’, in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018. Salt Lake City, UT: IEEE, pp. 4510–4520. doi: 10.1109/CVPR.2018.00474.
+[11] STMicroelectronics (2021) RM0383 — STM32F411xC/xE advanced Arm®-based 32-bit MCUs Reference Manual. Revision 3. Geneva: STMicroelectronics. Available at: https://www.st.com/resource/en/reference_manual/rm0383-stm32f411xce-advanced-armbased-32bit-mcus-stmicroelectronics.pdf (Accessed: 22 April 2026).
+[12] STMicroelectronics (2022) UM1725 — Description of STM32F4 HAL and low-layer drivers. Revision 7. Geneva: STMicroelectronics. Available at: https://www.st.com/resource/en/user_manual/um1725-description-of-stm32f4-hal-and-lowlayer-drivers-stmicroelectronics.pdf (Accessed: 22 April 2026).
+[13] STMicroelectronics (2023) UM1724 — STM32 Nucleo-64 boards (MB1136) User Manual. Revision 14. Geneva: STMicroelectronics. Available at: https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf (Accessed: 22 April 2026).
+[14] Vougioukas, S.G. (2019) ‘Agricultural Robotics’, Annual Review of Control, Robotics, and Autonomous Systems, 2, pp. 365–392. doi: 10.1146/annurev-control-053018-023617.
+[15] Adeyemi, T. (2026) AI-based smart agriculture and crop health monitoring using a pruned MobileNetV2 pipeline. Final Year Project, BEng Robotics and Artificial Intelligence, University of Hertfordshire. Supervisor: Z. Chekata.
+[16] Kokke (2024) tiny-AES-c: Small portable AES128/192/256 in C [source code]. GitHub. Available at: https://github.com/kokke/tiny-AES-c (Accessed: 22 April 2026). Released into the public domain via the Unlicense.
+

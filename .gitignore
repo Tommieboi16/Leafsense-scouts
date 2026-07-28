@@ -1,0 +1,13 @@
+﻿# build artefacts
+build/
+*.o
+*.exe
+*.d
+
+# python
+__pycache__/
+.ipynb_checkpoints/
+
+# os
+Thumbs.db
+.DS_Store
